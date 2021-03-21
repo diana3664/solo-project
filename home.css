@@ -1,3 +1,4 @@
+/* styling the header */
 header {
     color: black;
     background-color: #0ac3f1d0;
@@ -34,3 +35,4 @@ nav>a:hover {
     margin-bottom: 5px;
     border-bottom: 2px solid white;
 }
+/* end of styling the header */
