@@ -1,0 +1,36 @@
+header {
+    color: black;
+    background-color: #0ac3f1d0;
+    position: absolute;
+    height: 100px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+nav{
+    color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 10px;
+    margin-right: 1px;
+    margin-top: 60px;
+}
+nav>a{
+    color: black;
+    padding-left: 60px;
+    margin-left: 240px;
+    text-transform: none;
+    text-decoration: none;
+    font: bolder;
+} 
+nav>a:hover {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    border-bottom: 2px solid white;
+}
