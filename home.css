@@ -55,3 +55,12 @@ h1{
     text-decoration: none;
 }
 /* end of styling the first image */
+/* styling the second pic */
+.pic2{
+    background-image: url(".//images/lucas-santos-wdg8yu362gQ-unsplash.jpg");
+    background-size: contain;
+    padding: 100px;
+    padding-left: 0px;
+    padding-bottom: 10px;
+}
+/* end of styling the second image */
